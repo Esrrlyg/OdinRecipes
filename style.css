@@ -1,0 +1,12 @@
+.image-round{
+    border-radius: 50%;
+}
+.all{
+    text-align: center;
+    background-color: tan;
+}
+.box{
+    border: 7px solid sienna;
+    border-radius: 10px;
+    background-color: burlywood;
+}
